@@ -7,4 +7,5 @@ Different types of calculators together.
   <li>Fibonocci Number Calculator</li>
   <li>Palindrome Number Calculator</li>
   <li>Prime Number Calculator</li> 
+  <li>Cgpa Calculator</li> 
 </ol>
